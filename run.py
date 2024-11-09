@@ -1,7 +1,7 @@
 import random
 
-def create_board(size=10):
-    return[['0'] * size for _ in range(size)]
+def create_board(size):
+    return[['0' for _ in range (size)] for _ in range(size)]
 
     def print_board(board):
         print("  " + " ".join(str(i) for i in range(len)(board)))
