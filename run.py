@@ -25,3 +25,4 @@ def print_grid(grid):
                                 row, col = map(int, guess.split(","))
                                 return (row, col)
                                 except ValueError:
+                                    print("Invalid input. Please enter row and column as two numbers seperated by a comma.")
