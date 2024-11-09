@@ -1,6 +1,9 @@
 import random
 
-def print_board(grid):
+def print_grid(grid):
     for row in grid:
         print(" ".join(row))
+
+        def create_grid(size):
+            grid = []
 
