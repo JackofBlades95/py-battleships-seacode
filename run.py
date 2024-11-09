@@ -24,4 +24,4 @@ def print_grid(grid):
                                 guess = input("Enter your guess(row,col): ")
                                 row, col = map(int, guess.split(","))
                                 return (row, col)
-
+                                except ValueError:
