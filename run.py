@@ -10,6 +10,8 @@ def print_grid(grid):
                 grid.append(["0"] * size)
                 return grid
 
-                
+                def place_computer_ship(size):
+
+
                 
 
