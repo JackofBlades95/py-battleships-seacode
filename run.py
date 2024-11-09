@@ -7,5 +7,9 @@ def print_grid(grid):
         def create_grid(size):
             grid = []
             for _ in range(size):
+                grid.append(["0"] * size)
+                return grid
+
+                
                 
 
