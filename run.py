@@ -28,3 +28,6 @@ def print_grid(grid):
                                 print("Invalid input. Please enter row and column as two numbers seperated by a comma.")
                             except IndexError:
                                         print("Guess is off the grid. Please try again.")
+
+                                        def main():
+                                            print("Welcome to Battleships Seacode!")
