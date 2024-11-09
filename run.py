@@ -19,3 +19,4 @@ def print_grid(grid):
 
                     
                     def get_user_guess():
+                        while True:
