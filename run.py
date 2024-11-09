@@ -23,4 +23,5 @@ def print_grid(grid):
                             try:
                                 guess = input("Enter your guess(row,col): ")
                                 row, col = map(int, guess.split(","))
+                                return (row, col)
 
