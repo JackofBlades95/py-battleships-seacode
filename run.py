@@ -59,3 +59,4 @@ def print_grid(grid):
                                                     break
                                                 else:
                                                     grid[user_row][user_col] = "X"
+                                                    print("You missed! Try again!")
