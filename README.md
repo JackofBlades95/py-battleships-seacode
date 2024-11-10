@@ -44,6 +44,10 @@ The players guess should be entered as two numbers seperated by a comma, represe
 
 ## Data Model
 
+* I have used a grid model, where the ship is hidden and the player has to guess its location. Misses are marked, and the game tracks the number of guesses, with a limit on attempts. 
+
+* The print_grid shows the grid, create_grid creates the grid, place_computer_ship places the ship randomly, get_user_guess gets the players guess and main() runs the game, mangaging hits and misses.
+
 
 ## Testing
 
