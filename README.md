@@ -51,6 +51,13 @@ The players guess should be entered as two numbers seperated by a comma, represe
 
 ## Deployment
 
+* (Steps for Deployment)
+* Fork or clone this repository
+* Create a new Heroku app
+* Set the buildbacks to Python and NodeJS in that order
+* Link the Heroku app to the reposistory
+* Click on Deploy
+
 
 ## Tools & Technologies Used
 
