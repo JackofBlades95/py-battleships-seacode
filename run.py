@@ -64,3 +64,4 @@ def print_grid(grid):
                                                     if attempts == max_attempts:
                                                         print("\nYou've run out of attempts. The ship was at:")
                                                         print(f"({ship_row}, {ship_col})")
+                                                        print("Game over.")
