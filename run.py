@@ -40,3 +40,5 @@ def print_grid(grid):
 
                                             attempts = 0
                                             max_attempts = 10
+                                            
+                                            while attempts < max_attempts:
