@@ -49,3 +49,4 @@ def print_grid(grid):
 
                                                 if user_row < 0 or user_row >= grid_size or user_col < 0 or user_col >= grid_size:
                                                     print("Your guess is off the grid. Please try again.")
+                                                    continue
