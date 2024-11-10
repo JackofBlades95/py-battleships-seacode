@@ -19,6 +19,9 @@ def print_grid(grid):
 
                     
                     def get_user_guess():
+                        """
+                        Get the user's guess and validates it
+                        """
                         while True:
                             try:
                                 guess = input("Enter your guess(row,col): ")
