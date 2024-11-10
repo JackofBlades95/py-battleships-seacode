@@ -54,4 +54,4 @@ def print_grid(grid):
                                                 attempts += 1
 
                                                 if (user_row == ship_row) and (user_col == ship_col):
-                                                    
+                                                    print(f"Good Hit! You hit the enemy ship at ({user_row}, {user_col})!")
