@@ -36,3 +36,4 @@ def print_grid(grid):
                                             grid_size = int(input("Enter the grid size (e.g., 5 for a 5x5 grid): "))
 
                                             grid = create_grid(grid_size)
+                                            ship_row, ship_col = place_computer_ship(grid_size)
