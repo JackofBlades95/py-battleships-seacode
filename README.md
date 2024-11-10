@@ -64,6 +64,8 @@ The players guess should be entered as two numbers seperated by a comma, represe
 
 ## Tools & Technologies Used
 
+* [W3Schools Python](https://www.w3schools.com/python/)
+
 
 
 
