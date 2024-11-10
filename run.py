@@ -31,6 +31,9 @@ def print_grid(grid):
 
                                         
                                         def main():
+                                            """
+                                            Run all program functions
+                                            """
                                             print("Welcome to Battleships Seacode!")
 
                                             grid_size = int(input("Enter the grid size (e.g., 5 for a 5x5 grid): "))
@@ -67,3 +70,4 @@ def print_grid(grid):
                                                         print("Game over.")
 
                                                         main()
+                                                        
