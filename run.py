@@ -1,6 +1,9 @@
 import random
 
 def print_grid(grid):
+    """
+    Prints the grid.
+    """
     for row in grid:
         print(" ".join(row))
 
