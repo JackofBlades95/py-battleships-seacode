@@ -10,7 +10,7 @@ Below is a screenshot of Battleships Seacode created using the "Am I Responsive"
 
 | Screenshot |
 
-
+At the moment no screenshot because of problem with deployment...
 
 
 ## How to Play
