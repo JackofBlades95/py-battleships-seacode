@@ -1,14 +1,6 @@
 import random
 
-def print_grid(grid):
-    """
-    Prints the grid.
-    """
-    for row in grid:
-        print(" ".join(row))
-
-        
-        def create_grid(size):
+def create_grid(size):
             """
             Creates the empty the grid.
             """
@@ -17,8 +9,15 @@ def print_grid(grid):
                 grid.append(["0"] * size)
                 return grid
 
+def print_grid(grid):
+    """
+    Prints the grid.
+    """
+    for row in grid:
+        print(" ".join(row))
+
                 
-                def place_computer_ship(size):
+def place_computer_ship(size):
                     """
                     Place's the computers ship randomly on the grid.
                     """
@@ -48,7 +47,7 @@ def print_grid(grid):
                                             """
                                             print("Welcome to Battleships Seacode!")
 
-                                            grid_size = int(input("Enter the grid size (e.g., 5 for a 5x5 grid): "))
+                                            grid_size = int(input("Enter the grid size (e.g., 5 for a 5x5 grid):\n "))
 
                                             grid = create_grid(grid_size)
                                             ship_row, ship_col = place_computer_ship(grid_size)
@@ -82,4 +81,3 @@ def print_grid(grid):
                                                         print("Game over.")
 
                                                         main()
-                                                        
