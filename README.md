@@ -45,6 +45,8 @@ The players guess should be entered as two numbers seperated by a comma, represe
 
 ## Testing
 
+* I have passed the code through a PEP8. No problems were found. Screenshot is below.
+
 
 ### Testing Screenshots
 
