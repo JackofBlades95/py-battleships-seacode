@@ -47,11 +47,8 @@ The players guess should be entered as two numbers seperated by a comma, represe
 
 ## Testing
 
-* Testing wad conducted using PEP8. No problems were found. Screenshot is below.
+* Testing was conducted using PEP8.
 * [PEP8](https://pep8ci.herokuapp.com/)
-
-
-### Testing Screenshots
 
 
 ## Deployment
