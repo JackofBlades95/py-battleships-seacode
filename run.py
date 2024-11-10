@@ -62,3 +62,4 @@ def print_grid(grid):
                                                     print("You missed! Try again!")
 
                                                     if attempts == max_attempts:
+                                                        print("\nYou've run out of attempts. The ship was at:")
