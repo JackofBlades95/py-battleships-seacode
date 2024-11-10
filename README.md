@@ -69,6 +69,10 @@ The players guess should be entered as two numbers seperated by a comma, represe
 
 ## Credits
 
+* [For an Idea of how to Structure the game](https://www.youtube.com/watch?app=desktop&v=tF1WRCrd_HQ)
+* [For an Idea of how to create a Battleships game in Python](https://bigmonty12.github.io/battleship)
+* [W3Schools Python](https://www.w3schools.com/python/)
+
 
 ### Acknowledgements
 
