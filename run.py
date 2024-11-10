@@ -42,3 +42,4 @@ def print_grid(grid):
                                             max_attempts = 10
                                             
                                             while attempts < max_attempts:
+                                                print("\nCurrent Grid:")
