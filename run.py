@@ -39,3 +39,4 @@ def print_grid(grid):
                                             ship_row, ship_col = place_computer_ship(grid_size)
 
                                             attempts = 0
+                                            max_attempts = 10
