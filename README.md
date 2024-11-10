@@ -14,4 +14,7 @@ Below is a screenshot of Battleships Seacode created using the "Am I Responsive"
 ## How to Play
 
 
+## Features
+
+
 
