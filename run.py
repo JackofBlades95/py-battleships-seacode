@@ -6,6 +6,9 @@ def print_grid(grid):
 
         
         def create_grid(size):
+            """
+            Creates the empty the grid.
+            """
             grid = []
             for _ in range(size):
                 grid.append(["0"] * size)
@@ -14,7 +17,7 @@ def print_grid(grid):
                 
                 def place_computer_ship(size):
                     """
-                    Place's the computers ship randomly on the grid
+                    Place's the computers ship randomly on the grid.
                     """
                     ship_row = random.randint(0, size - 1)
                     ship_col = random.randint(0, size  -1)
@@ -23,7 +26,7 @@ def print_grid(grid):
                     
                     def get_user_guess():
                         """
-                        Get the user's guess and validates it
+                        Get the user's guess and validates it.
                         """
                         while True:
                             try:
@@ -38,7 +41,7 @@ def print_grid(grid):
                                         
                                         def main():
                                             """
-                                            Run all program functions
+                                            Runs all program functions.
                                             """
                                             print("Welcome to Battleships Seacode!")
 
