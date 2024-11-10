@@ -13,4 +13,5 @@ Below is a screenshot of Battleships Seacode created using the "Am I Responsive"
 
 ## User Stories
 
+### First time site users
 
