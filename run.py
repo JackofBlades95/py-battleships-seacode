@@ -58,4 +58,4 @@ def print_grid(grid):
                                                     print(f"You sank the ship in {attempts} attempts!")
                                                     break
                                                 else:
-                                                    grid[]
+                                                    grid[user_row][user_col] = "X"
