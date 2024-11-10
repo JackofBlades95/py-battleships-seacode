@@ -57,3 +57,5 @@ def print_grid(grid):
                                                     print(f"Good Hit! You hit the enemy ship at ({user_row}, {user_col})!")
                                                     print(f"You sank the ship in {attempts} attempts!")
                                                     break
+                                                else:
+                                                    grid[]
