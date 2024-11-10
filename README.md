@@ -3,6 +3,7 @@
 * Battleships Seacode is a Python Terminal Game, which runs on Heroku.
 * Battleships Seacode is a simple Battleships game using python, which allows the user to play a game of Battleships against the computer.
 
+
 ## Screenshots
 
 Below is a screenshot of Battleships Seacode created using the "Am I Responsive" website.
@@ -10,6 +11,7 @@ Below is a screenshot of Battleships Seacode created using the "Am I Responsive"
 | Screenshot |
 
 ![screenshot]()
+
 
 ## How to Play
 
@@ -30,6 +32,7 @@ The players guess should be entered as two numbers seperated by a comma, represe
 * (Limited Number of Attempts) The player has limited number of attempts adding and element of challenge.
 * (Clear Instructions) The game provides clear feedback on weather your guess was a hit or a miss and prompts you to try again if your guess is off the grid or invalid.
 
+
 ### Features left to implement
 
 * Due to time constraints, in the future I would like to add these further features.
@@ -37,7 +40,6 @@ The players guess should be entered as two numbers seperated by a comma, represe
 * (Tracking Hits and Misses) Provide feedback on the number of hits and misses, show the the grid with missed and hit locations.
 * (Score System) Keep track of the players score based on their performance.
 * (Replay Feature) Add a feature to allow the player to replay the game after finishing, with either the same grid size or a new one. Add a prompt to ask if the player wants to play again.
-
 
 
 ## Data Model
@@ -65,8 +67,6 @@ The players guess should be entered as two numbers seperated by a comma, represe
 ## Tools & Technologies Used
 
 * [W3Schools Python](https://www.w3schools.com/python/)
-
-
 
 
 ## Credits
