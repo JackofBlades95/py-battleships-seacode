@@ -24,6 +24,11 @@ The players guess should be entered as two numbers seperated by a comma, represe
 
 ## Features
 
+* (Customizable Grid Size) The player can choose the grid size to adjust the difficulty of the game.
+* (Random Ship Placement) The computer randomly place its ship on the grid at the start of each game.
+* (User Friendly Interface) The game presents a simple grid where the player can track their guesses. Misses are marked with an X so the player can see their progress.
+* (Limited Number of Attempts) The player has limited number of attempts adding and element of challenge.
+* (Clear Instructions) The game provides clear feedback on weather your guess was a hit or a miss and prompts you to try again if your guess is off the grid or invalid.
 
 ### Features left to implement
 
