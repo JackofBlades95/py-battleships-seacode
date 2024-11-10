@@ -60,3 +60,5 @@ def print_grid(grid):
                                                 else:
                                                     grid[user_row][user_col] = "X"
                                                     print("You missed! Try again!")
+
+                                                    if attempts == max_attempts:
