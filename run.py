@@ -52,3 +52,6 @@ def print_grid(grid):
                                                     continue
 
                                                 attempts += 1
+
+                                                if (user_row == ship_row) and (user_col == ship_col):
+                                                    
