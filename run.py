@@ -13,6 +13,9 @@ def print_grid(grid):
 
                 
                 def place_computer_ship(size):
+                    """
+                    Place's the computers ship randomly on the grid
+                    """
                     ship_row = random.randint(0, size - 1)
                     ship_col = random.randint(0, size  -1)
                     return (ship_row, ship_col)
