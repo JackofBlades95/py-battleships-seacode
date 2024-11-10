@@ -55,3 +55,4 @@ def print_grid(grid):
 
                                                 if (user_row == ship_row) and (user_col == ship_col):
                                                     print(f"Good Hit! You hit the enemy ship at ({user_row}, {user_col})!")
+                                                    print(f"You sank the ship in {attempts} attempts!")
