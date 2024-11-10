@@ -37,3 +37,5 @@ def print_grid(grid):
 
                                             grid = create_grid(grid_size)
                                             ship_row, ship_col = place_computer_ship(grid_size)
+
+                                            attempts = 0
