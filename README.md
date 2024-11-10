@@ -59,3 +59,6 @@ The players guess should be entered as two numbers seperated by a comma, represe
 
 
 ### Acknowledgements
+
+* I would like to thank Code Institute for the course and support.
+* I would like to thank my family for their help and support.
